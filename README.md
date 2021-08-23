@@ -26,9 +26,9 @@ $ ts-node bootstrap
 - get events by host city: GET/ localhost:3000/event/city/:city example: localhost:3000/event/city/Beijing
 - create new event: POST/ localhost:3000/event 
 - example request body: {
-    - "name": "flute",
-    - "artist": "TTT",
-    - "hostCity": "Vancouver"
+    "name": "flute",
+    "artist": "TTT",
+    "hostCity": "Vancouver"
 - }
 
 5 Run unit test
