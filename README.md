@@ -28,8 +28,7 @@ $ ts-node bootstrap
 - example request body: {
     "name": "flute",
     "artist": "TTT",
-    "hostCity": "Vancouver"
-- }
+    "hostCity": "Vancouver"}
 
 5 Run unit test
 
